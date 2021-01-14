@@ -1,0 +1,5 @@
+name: BlockPhysics
+version: 0.1
+main: me.mazenz.blockphysics.BlockPhysics
+api-version: 1.16
+authors: [ Mazen ]
